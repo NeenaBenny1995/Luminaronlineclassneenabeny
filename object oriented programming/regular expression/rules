@@ -1,0 +1,21 @@
+x="[abc]"  Either a or b or c
+x="[^abc]"  except a b c
+x="[a-z]"  small letters a to z
+x="[A-Z]"  capital letters Ato Z
+x="[a-zA-Z]"  all capital and small letters
+x="[0-9]"  all digits
+x="[^a-zA-Z0-9]"  special symbols
+x="\s"  chack space
+x="\d" check the digits
+x="\D"  except digits
+x="\w"  all words except special characters
+x="\W" for special characters
+
+Quantifiers
+==============
+x='a+'  return a including groups
+x='a*' count includes zero number of a
+x='a{2}'  if two number of a is coming
+x='a{2,3}' minimum number and maximum number of a
+x='^a'  start with a
+x='a$'  end with a

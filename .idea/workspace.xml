@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d6616ff-f6ca-4441-bd2a-e1a2885d491e" name="Default Changelist" comment="" />
+    <list default="true" id="9d6616ff-f6ca-4441-bd2a-e1a2885d491e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/frond_end/html section/images/fb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,21 +15,29 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1qpjFxm7blNFMd8mSP0wOUuGBUH" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/files" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/frond_end/html section/images" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\user\PycharmProjects\luminaronline\files" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\luminaronline\frond_end\html section\images" />
       <recent name="C:\Users\user\PycharmProjects\luminaronline\functional programming\map function" />
       <recent name="C:\Users\user\PycharmProjects\luminaronline\object oriented programming\consrtuctor" />
       <recent name="C:\Users\user\PycharmProjects\luminaronline\object oriented programming\simpleinheritance" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\luminaronline\frond_end\html section\images" />
+      <recent name="C:\Users\user\PycharmProjects\luminaronline\frond_end\html section" />
+      <recent name="C:\Users\user\PycharmProjects\luminaronline\files" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -169,6 +180,17 @@
       <updated>1617783328254</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
